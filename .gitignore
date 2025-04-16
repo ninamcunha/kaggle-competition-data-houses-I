@@ -1,0 +1,50 @@
+# System files
+.DS_Store
+**/.DS_Store
+
+# Data files
+data/
+*.csv
+*.json
+*.pkl
+*.parquet
+*.feather
+*.h5
+*.jpg
+*.png
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+env/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Environments
+.env
+.venv/
+
+# Logs and outputs
+logs/
+output/
+models/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Git
+*.orig
+
+# macOS
+._*
+
+# Windows
+Thumbs.db
